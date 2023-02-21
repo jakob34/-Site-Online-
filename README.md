@@ -31,8 +31,6 @@
      </body>
      
 
-          
-
           <iframe id="item-direct-container" class="item-direct-container resizable" width="960" height="540" allow="autoplay" allowfullscreen="" frameborder="0" scrolling="yes" data-src="https://gameskite.com/play/ludo-life-pvp-online?id=y8&amp;key=y8&amp;value=default" src="https://gameskite.com/play/ludo-life-pvp-online?id=y8&amp;key=y8&amp;value=default" style="display: block;"></iframe>
 
 
