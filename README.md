@@ -48,7 +48,7 @@
     </style>
   </head>
   <body>
-    <a href="file:///C:/Users/jmjak/Downloads/Page%20Html.2.html" class="button">Cliquez ici</a>
+    <a href="https://jakob34.github.io/Page-2-/" class="button">Cliquez ici</a>
   </body>
 </html>
 
