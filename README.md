@@ -1,4 +1,3 @@
-
 <Center><title>Bienvenue sur le site de Jakob </title><center>
     
     <body> 
@@ -25,7 +24,7 @@
          <body>
             <style>
                 body {
-                  background-color: #18aeaef1;
+                  background-color: #2e03ed;
                 }
               </style>
               <script src="https://uhchat.net/code.php?f=06d01e"></script>
@@ -53,6 +52,11 @@
   </body>
 </html>
 
+
+          
+        
+        
+</html>
      
 
 
